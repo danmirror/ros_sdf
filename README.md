@@ -1,1 +1,3 @@
-# ros_sdf
+# robotic operating system gazebo sdf
+> simple sdf
+
