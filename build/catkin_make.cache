@@ -1,0 +1,2 @@
+my_simulations
+-DCATKIN_DEVEL_PREFIX=/home/danu/catkin_custom/catkin_gazebo_simple/devel -DCMAKE_INSTALL_PREFIX=/home/danu/catkin_custom/catkin_gazebo_simple/install -G Unix Makefiles

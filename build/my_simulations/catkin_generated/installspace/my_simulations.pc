@@ -1,0 +1,8 @@
+prefix=/home/danu/catkin_custom/catkin_gazebo_simple/install
+
+Name: my_simulations
+Description: Description of my_simulations
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
